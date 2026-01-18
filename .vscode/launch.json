@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C#: unsia-e-government Debug",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/unsia-e-government.csproj"
+    }
+  ],
+  "compounds": []
+}
